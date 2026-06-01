@@ -116,7 +116,9 @@ const Joya = {
 <a href="https://github.com/Joya15/Feedback-Analysis-for-Products-Using-NLP">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Joya15&repo=Feedback-Analysis-for-Products-Using-NLP&theme=highcontrast" alt="Feedback Analysis for Products Using NLP"/>
 </a>
-
+<a href="https://github.com/Joya15/comp8430-ros-image-capture">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Joya15&repo=comp8430-ros-image-capture&theme=highcontrast" alt="Fine-Grained Beverage Can Classification for ROS2-Based Robotic Perception"/>
+</a>
 ---
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" alt="Connect animation"> <em><b>I love learning, teaching, and building AI systems</b>, so I am always happy to connect with people working on meaningful technology.</em>
