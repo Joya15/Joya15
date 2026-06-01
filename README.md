@@ -88,8 +88,8 @@ const Joya = {
 - **Feedback Analysis for Products Using NLP**  
   Aspect-based sentiment analysis on Amazon reviews using BERT and SHAP explainability for transparent product feedback insights.
 
-- **Fine-Grained Sneaker Classification and Robot Deployment**  
-  A 21-class sneaker classification system using InceptionV3, transfer learning, robot-camera adaptation, and ROS 2 deployment.
+- **Fine-Grained Beverage Can Classification for ROS2-Based Robotic Perception**  
+  Group project integrating MobileNetV3-Large, YOLOv8n crop detection, PyTorch, OpenCV, and ROS2 for real-time beverage can classification and robot target-search behaviour. Achieved 97.20% accuracy on 20 classes and 100% accuracy on the 3-class target-search subset.
 
 - **LLM-Powered Personal Travel Assistant**  
   An end-to-end LLM application for automated travel planning using prompt engineering, dialogue management, and personalized text generation.
