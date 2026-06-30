@@ -85,19 +85,20 @@ const Joya = {
 
 #### :sparkles: Featured Projects
 
-- **Feedback Analysis for Products Using NLP**  
-  Aspect-based sentiment analysis on Amazon reviews using BERT and SHAP explainability for transparent product feedback insights.
-
 - **Fine-Grained Beverage Can Classification for ROS2-Based Robotic Perception**  
-  Group project integrating MobileNetV3-Large, YOLOv8n crop detection, PyTorch, OpenCV, and ROS2 for real-time beverage can classification and robot target-search behaviour. Achieved 97.20% accuracy on 20 classes and 100% accuracy on the 3-class target-search subset.
+  Computer vision and robotics project using MobileNetV3-Large, YOLOv8 crop detection, PyTorch, OpenCV, and ROS2 for real-time beverage can classification and robot target-search behaviour. Achieved 97.20% accuracy on 20 classes and 100% accuracy on the 3-class target-search subset.
+
+- **Multi-Generator Deepfake Document Detection and Tamper Localization**  
+  End-to-end document forensics project for detecting AI-generated/deepfake documents and localizing tampered regions using computer vision, PyTorch, and image segmentation techniques.
 
 - **LLM-Powered Personal Travel Assistant**  
-  An end-to-end LLM application for automated travel planning using prompt engineering, dialogue management, and personalized text generation.
+  End-to-end LLM application for automated travel planning using prompt engineering, dialogue management, and personalized text generation.
 
-- **Graph Neural Network Friend Recommendation**  
-  A GNN-based recommendation system using PyTorch Geometric, graph visualizations, and t-SNE embedding analysis.
+- **OSHC Insurance Claim JDM Rules**  
+  Business-rule decision model for Overseas Student Health Cover insurance claims using GoRules/JDM decision tables and a Python reference simulator.
 
----
+- **Feedback Analysis for Products Using NLP**  
+  Aspect-based sentiment analysis on Amazon reviews using BERT and SHAP explainability for transparent product feedback insights.
 
 #### :fire: My Stats
 
