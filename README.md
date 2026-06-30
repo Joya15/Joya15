@@ -110,17 +110,20 @@ const Joya = {
 [![trophy](https://github-profile-trophy.vercel.app/?username=Joya15&theme=dark_lover)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
-
 #### :pushpin: Top Repositories
 
-<a href="https://github.com/Joya15/Feedback-Analysis-for-Products-Using-NLP">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Joya15&repo=Feedback-Analysis-for-Products-Using-NLP&theme=highcontrast" alt="Feedback Analysis for Products Using NLP"/>
+<a href="https://github.com/Joya15/fine-grained-beverage-can-robot-classifier">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Joya15&repo=fine-grained-beverage-can-robot-classifier&theme=highcontrast" alt="Fine-Grained Beverage Can Robot Classifier"/>
 </a>
 
-<a href="https://github.com/Joya15/comp8430-ros-image-capture">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Joya15&repo=comp8430-ros-image-capture&theme=highcontrast" alt="Fine-Grained Beverage Can Classification for ROS2-Based Robotic Perception"/>
+<a href="https://github.com/Joya15/Multi-Generator-Deepfake-Document-Detection-and-Tamper-Localization">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Joya15&repo=Multi-Generator-Deepfake-Document-Detection-and-Tamper-Localization&theme=highcontrast" alt="Multi-Generator Deepfake Document Detection and Tamper Localization"/>
 </a>
 
----
+<a href="https://github.com/Joya15/LLM-Powered-Personal-Travel-Assistant">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Joya15&repo=LLM-Powered-Personal-Travel-Assistant&theme=highcontrast" alt="LLM-Powered Personal Travel Assistant"/>
+</a>
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" alt="Connect animation"> <em><b>I love learning, teaching, and building AI systems</b>, so I am always happy to connect with people working on meaningful technology.</em>
+<a href="https://github.com/Joya15/oshc-insurance-claim-jdm-rules">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Joya15&repo=oshc-insurance-claim-jdm-rules&theme=highcontrast" alt="OSHC Insurance Claim JDM Rules"/>
+</a>
